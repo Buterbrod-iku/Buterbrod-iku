@@ -1,6 +1,27 @@
 
 # Hello, мy name is Ilya
 
+---
+
+### :man_technologist: About me:
+
+I have been interested in programming for about 4 years. I like to come up with ideas for projects and implement them. I have participated many times with individual projects and won many prizes. I am ready to work in a team and learn new technologies, as well as effectively apply existing skills.
+
+Some of my projects:
+1. Development of an application that warns pedestrians against getting into dangerous situations due to high concentration of attention on a smartphone.
+   - February 2023 – May 2023
+   - People in the team: 4
+   - Responsibilities: Organization of the development process, development of the user interface and part of the program logic
+   - Result: Victory in the international Olympiad "IT Planet 2023"
+2. Development of a logistics program for building routes and solving transport problems.
+   - July 2023 – February 2024
+   - People in the team: 5
+   - Responsibilities: Organizer, communication with the customer, user interface development
+
+- :mailbox: Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:melkov750@gmail.com)
+
+---
+
 ### 🤝 Сontacts:
 
   <div id="badges">
@@ -11,20 +32,6 @@
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
   </div>
-
----
-
-### :man_technologist: About me:
-
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила веб разработка! С мая 2022 года по апрель 2023 я изучал веб разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я нашел свою первую работу!
-
-- :telescope: Участвовал в бассейне Школы 21 от Сбера.
-
-- :seedling: Завершил курсы по веб-разработке Яндекс Практикум!
-
-- :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
-
-- :mailbox: Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:melkov750@gmail.com)
 
 ---
 
