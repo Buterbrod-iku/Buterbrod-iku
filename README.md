@@ -18,7 +18,7 @@ Some of my projects:
    - People in the team: 5
    - Responsibilities: Organizer, communication with the customer, user interface development
 
-- :mailbox: Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:melkov750@gmail.com)
+- :mailbox: Contact email: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:melkov750@gmail.com)
 
 ---
 
