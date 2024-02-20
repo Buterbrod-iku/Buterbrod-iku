@@ -61,4 +61,4 @@
 
 <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Buterbrod-iku&theme=dark&background=000000" alt="webDev's Github stats" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buterbrod-iku&layout=compact)](https://github.com/Buterbrod-iku/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buterbrod-iku&layout=compact)](https://github.com/Buterbrod-iku/Buterbrod-iku)
