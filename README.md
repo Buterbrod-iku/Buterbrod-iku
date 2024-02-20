@@ -1,6 +1,17 @@
 
 # Hello, мy name is Ilya
 
+### 🤝 Сontacts:
+
+  <div id="badges">
+    <a href="[https://t.me/tehnomaniak07](https://t.me/setInterval_iku)" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
+    <a href="https://vk.com/buterbrod_iku" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    </a>
+  </div>
+
 ---
 
 ### :man_technologist: About me:
@@ -14,19 +25,6 @@
 - :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
 
 - :mailbox: Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:melkov750@gmail.com)
-
----
-
-### 🤝 Сontacts:
-
-  <div id="badges">
-    <a href="[https://t.me/tehnomaniak07](https://t.me/setInterval_iku)" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-    <a href="https://vk.com/buterbrod_iku" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-  </div>
 
 ---
 
