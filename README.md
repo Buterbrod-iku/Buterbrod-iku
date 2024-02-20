@@ -64,11 +64,7 @@
     <td>
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Buterbrod-iku&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Buterbrod-iku&layout=compact&theme=vision-friendly-dark" />
-    </td>
   </tr>
 </table>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buterbrod-iku)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buterbrod-iku&layout=compact)](https://github.com/Buterbrod-iku/github-readme-stats)
