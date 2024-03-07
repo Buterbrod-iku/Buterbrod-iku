@@ -9,15 +9,16 @@ I have been interested in programming for about 4 years. I like to come up with 
 
 Some of my projects:
 1. Development of an application that warns pedestrians against getting into dangerous situations due to high concentration of attention on a smartphone.
-   https://github.com/Buterbrod-iku/it-planeta-safety-life
    - February 2023 – May 2023
    - People in the team: 4
    - Responsibilities: Organization of the development process, development of the user interface and part of the program logic
    - Result: Victory in the international Olympiad "IT Planet 2023"
+   - https://github.com/Buterbrod-iku/it-planeta-safety-life
 2. Development of a logistics program for building routes and solving transport problems.
    - July 2023 – February 2024
    - People in the team: 5
    - Responsibilities: Organizer, communication with the customer, user interface development
+   - https://github.com/Buterbrod-iku/sgk
 
 - :mailbox: Contact email: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:melkov750@gmail.com)
 
