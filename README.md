@@ -9,6 +9,7 @@ I have been interested in programming for about 4 years. I like to come up with 
 
 Some of my projects:
 1. Development of an application that warns pedestrians against getting into dangerous situations due to high concentration of attention on a smartphone.
+   https://github.com/Buterbrod-iku/it-planeta-safety-life
    - February 2023 – May 2023
    - People in the team: 4
    - Responsibilities: Organization of the development process, development of the user interface and part of the program logic
